@@ -16,8 +16,8 @@ $(document).ready(function() {
         color: 'green', // Change text color for better contrast
         border: 'none',
         borderRadius: '50%', // Make it round
-        padding: '15px', // Adjust padding for better size
-        fontSize: '20px', // Increase font size for visibility
+        padding: '10px', // Adjust padding for better size
+        fontSize: '32px', // Increase font size for visibility
         cursor: 'pointer'
     });
 
@@ -30,8 +30,8 @@ $(document).ready(function() {
         color: 'red', // Change text color for better contrast
         border: 'none',
         borderRadius: '50%', // Make it round
-        padding: '15px', // Adjust padding for better size
-        fontSize: '20px', // Increase font size for visibility
+        padding: '10px', // Adjust padding for better size
+        fontSize: '32px', // Increase font size for visibility
         cursor: 'pointer'
     });
 
