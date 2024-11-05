@@ -23,7 +23,7 @@ $(document).ready(function() {
 
     const scrollButtonBottom = $('<button id="scrollToBottom">▼</button>').css({
         position: 'fixed',
-        bottom: '60px',
+        bottom: '100px',
         right: '20px',
         zIndex: '1000',
         backgroundColor: 'rgba(255, 255, 224, 0.5)', // Light yellow with 50% transparency
